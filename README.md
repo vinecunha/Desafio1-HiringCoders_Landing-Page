@@ -23,4 +23,4 @@ Todo mundo pronto para colocar a mão na massa? :)
 
 _Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
 
-Link para o projeto desenvolvido: 
+Link para o projeto desenvolvido: https://vinicius-martins.netlify.app/
